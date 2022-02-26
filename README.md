@@ -1,6 +1,6 @@
 # dino  
 here have a dino game  
-yoinked from [chromium](https://source.chromium.org/chromium/chromium/src/+/main:components/neterror/resources/offline.js;l=7?q=t-rex%20package:%5Echromium$&ss=chromium)
+yoinked from [Chromium](https://source.chromium.org/chromium/chromium/src/+/main:components/neterror/resources/offline.js;l=7?q=t-rex%20package:%5Echromium$&ss=chromium)
   
 # run in browser
 here i deployed it on netlify for you to use if that is easier for you to use  
